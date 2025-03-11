@@ -4,8 +4,8 @@
 
 # 👋 Hi, I’m **Vamsi Kadiri**
 ### 🎓 Graduate in Industrial Engineering from Texas Tech University  
-I'm passionate about **new product development** and solving **real-world problems**. Every day, I strive to **learn something new** and grow as an individual.
-
+👋 Hi, I'm passionate about ergonomic design, product innovation, and optimization. Currently completing my Master's in Industrial Engineering at Texas Tech University, I love turning complex challenges into simple, effective solutions.
+#### 🚀 Skilled in Python, R, SolidWorks, ANSYS, and Simio. Always eager to collaborate on exciting projects in simulation, supply chain optimization, and human-centered design.
 ---
 
 ## 👀 About Me
